@@ -63,13 +63,13 @@ Like I mentioned above, here are the links for my clubs [Official Computer Scien
 ### Browse Topics (Left side)
 - The user will be able to see the top 5 Topics that are currently made (5). Depending on a topic, the user will be able to see any rooms that are related to that topic and as well as any messages in that specific topic. <br>
         - <img src="https://i.imgur.com/BRCkjBb.gif" style="width: 700px; height: 400px"> <br>
-        - The user will also be able to go to another view, that will display all topics, since the main room ony displays the top 5.
+        - The user will also be able to go to another view, that will display all topics, since the main room ony displays the top 5. <br>
         - <img src="https://i.imgur.com/7hYNZ51.gif" style="width: 700px; height: 400px">
 
 ### All Rooms (Middle)
 - The user will be able to see all rooms currently available. Each room displays the room name, description, how long ago it was created (who the host is) and how many people have joined. The user can also click on each room and in there the user can join the room and begin sending messages. <br>
         - <img src="https://i.imgur.com/pI58wWI.gif" style="width: 700px; height: 400px">
-- If the user joins a new room and sends a message, they'll be automatically added to the participants list in Chat View.
+- If the user joins a new room and sends a message, they'll be automatically added to the participants list in Chat View. <br>
         - <img src="https://i.imgur.com/b3dH89x.gif" style="width: 700px; height: 400px">
 
 ### Participants Feed (Right side)
@@ -80,7 +80,7 @@ Like I mentioned above, here are the links for my clubs [Official Computer Scien
 - <b>Create Room</b>: Users will be able to create new rooms and choose a topic, room name, and add a description.<br>
         - <img src="https://i.imgur.com/0r056El.gif" style="width: 700px; height: 400px"> <br>
 <b>Update/Delete Room</b>: Users will also be able to update a room that they made. They can also delete their room if they'd like.<br>
-        - <img src="https://i.imgur.com/WKjocKA.gif" style="width: 700px; height: 400px">
+        - <img src="https://i.imgur.com/WKjocKA.gif" style="width: 700px; height: 400px"> <br>
         - <img src="https://i.imgur.com/h8nHlQs.gif" style="width: 700px; height: 400px">
         
 ### Profile View 
