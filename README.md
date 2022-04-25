@@ -1,6 +1,6 @@
 # Welcome to: CSS Club Chat Portal
 
-<img src="https://i.imgur.com/ZE6tTFI.png" alt="drawing" style="width: 100px; height 100px;"/> Chat Portal
+<img src="https://i.imgur.com/ZE6tTFI.png" alt="drawing" style="width: 100px; height 100px;"/> <br>Chat Portal
 
 ## Table of Contents
 - [Website Description](#Website-Description)
