@@ -22,7 +22,6 @@
 - [Wrap Up](#Wrap-Up)
 - [License](#License)
 
-
 ## Website Description
 <p>
     Hello 👋, my name is Leandro Gamarra. Welcome to my newest Website Application, Chat Portal. Chat Portal is a chat based Django application where users will be able to login/logout/register and able to create Chat rooms. In these rooms, Computer Science Society Club (more info below) members/users will be able to chat amongst each other depending on the topic that the room is for. Moreover, users will also be able to edit their own profile and update/delete any messages they have sent or chat rooms they have created. Read more below to learn about all of the website's features.
